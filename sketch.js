@@ -22,7 +22,7 @@ function setup() {
   dropdown.option('淡江大學首頁');
   dropdown.option('第三周作品');
   dropdown.option('第三周講義');
-  dropdown.option('第四周測業卷');
+  dropdown.option('第四周測驗卷');
   dropdown.option('第四周講義');
   dropdown.changed(openLink); // 設定選單改變時執行的程式碼
   
